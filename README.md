@@ -1,6 +1,9 @@
 # Hackerrank-Army-Game
 ### Problem
 ![](capture.png)
-### Explanation
+### Detailed Explanation
 ![](exp.png)
-### Sample
+### Visual Explanation
+![](sp1.png)
+![](sp2.png)
+![](sp3.png)
